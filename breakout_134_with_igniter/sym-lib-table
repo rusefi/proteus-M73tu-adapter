@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 134pin_7-967288-1_KC5)(type Legacy)(uri D:/GoogleDrive/MSDLab/KiCad/freelance/rusefi/rusefi_lib_private/134pin_7-967288-1_KC5.LIB)(options "")(descr ""))
+  (lib (name ISL9V3040D3ST)(type Legacy)(uri D:/GoogleDrive/MSDLab/KiCad/freelance/rusefi/rusefi_lib_private/ISL9V3040D3ST.lib)(options "")(descr ""))
+)
