@@ -6,4 +6,5 @@
   (lib (name "TE_7-967288-1")(type "KiCad")(uri "${KIPRJMOD}/../kicad6-libraries/TE_7-967288-1.kicad_sym")(options "")(descr ""))
   (lib (name "rusefi_logo")(type "KiCad")(uri "${KIPRJMOD}/../kicad6-libraries/rusefi_logo.kicad_sym")(options "")(descr ""))
   (lib (name "MPX_SOP_SSOP")(type "KiCad")(uri "${KIPRJMOD}/../kicad6-libraries/MPX_SOP_SSOP.kicad_sym")(options "")(descr ""))
+  (lib (name "MPX-4_MAP")(type "KiCad")(uri "${KIPRJMOD}/../kicad6-libraries/MPX-4_MAP.kicad_sym")(options "")(descr ""))
 )
