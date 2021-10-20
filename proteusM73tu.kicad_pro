@@ -346,7 +346,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "proteus125honda.kicad_pro",
+    "filename": "proteusM73tu.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -380,7 +380,7 @@
       "idf": "",
       "netlist": "hw48na.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "proteusM73tu.step",
       "vrml": "gerber/hellen64_miataNA6_94.wrl"
     },
     "page_layout_descr_file": ""
