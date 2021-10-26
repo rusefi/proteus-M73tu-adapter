@@ -1,3 +1,3 @@
-X layers
+2 layers
 
-X by Y mm
+350 by 111.3 mm
